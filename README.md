@@ -4,4 +4,4 @@ https://tea-design.github.io
 
 or
 
-http://main.qcloudimg.com/tea/home.html
+https://qcloudimg.tencentcs.com/tea/index.html
