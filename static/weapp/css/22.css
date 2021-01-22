@@ -1,1 +1,1 @@
-.switch-box .switch-item{margin-top:40px;display:flex;justify-content:space-between}
+.picker-demo .picker{margin:10px;font-size:14px}.picker-demo:not(:first-child){margin-top:20px}

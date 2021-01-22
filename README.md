@@ -2,6 +2,5 @@
 
 https://tea-design.github.io
 
-or
+[备用地址](https://qcloudimg.tencentcs.com/tea/index.html)
 
-https://qcloudimg.tencentcs.com/tea/index.html
