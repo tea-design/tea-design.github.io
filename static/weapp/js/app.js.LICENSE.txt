@@ -8,9 +8,9 @@ object-assign
 
 /*!@license Copyright 2013, Heinrich Goebl, License: MIT, see https://github.com/hgoebl/mobile-detect.js*/
 
-/*!mobile-detect v1.4.4 2019-09-21*/
+/*!mobile-detect v1.4.5 2021-03-13*/
 
-/** @license React v0.19.1
+/** @license React v0.17.0
  * scheduler.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -19,7 +19,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v16.14.0
+/** @license React v17.0.2
  * react-dom.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -28,7 +28,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v16.14.0
+/** @license React v17.0.2
  * react.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
