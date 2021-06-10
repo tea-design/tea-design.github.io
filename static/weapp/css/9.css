@@ -1,1 +1,1 @@
-.example-content{background-color:#fff;padding-bottom:.896rem;margin-bottom:.64rem}
+.demo-indicator{position:absolute;bottom:.512rem;display:flex;width:100%;justify-content:center;z-index:1}.demo-indicator .demo-indicator-dot{width:1.024rem;height:.17067rem;margin:0 .17067rem;background:rgba(0,0,0,.4)}.demo-indicator .demo-indicator-dot.current{background:#fff}

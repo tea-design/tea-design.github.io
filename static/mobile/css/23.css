@@ -1,1 +1,1 @@
-.page .demo-box{padding:12px;background-color:#fff}.page .wrap{padding:2px}.page .title{font-size:16px;font-weight:700}.page .meta{color:#666;font-size:12px;margin-top:2px}.page .details{display:inline-block;font-size:14px;color:#999}.page .bor{border:1px dotted #a7a5a5;box-sizing:border-box}.page .imageWrap,.page .imageWrap img{width:123px;height:46px}.page .demo{height:80px}
+.page{padding-bottom:0}.demo-box{height:40px;width:100%;background-color:#aacfff}.demo-fixed .demo-box{height:600px}
