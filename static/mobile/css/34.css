@@ -1,1 +1,1 @@
-.section .tea-tag{margin-right:6px}
+.demo-indicator{position:absolute;bottom:12px;display:flex;width:100%;justify-content:center;z-index:1}.demo-indicator .demo-indicator-dot{width:24px;height:4px;margin:0 4px;background:rgba(0,0,0,.4)}.demo-indicator .demo-indicator-dot.current{background:#fff}
