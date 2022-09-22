@@ -1,1 +1,1 @@
-.example-content{background-color:#fff;padding-bottom:21px;margin-bottom:15px}
+.icons-box{display:flex;justify-content:flex-start;flex-wrap:wrap;width:100%;margin-bottom:10px}.icons-box .icon-single{width:25%;display:flex;flex-direction:column;align-items:center;justify-content:center;margin-top:7.5px}.icons-box .icon-single .icon-desc{font-size:6px;color:#333;margin-top:2.5px}
